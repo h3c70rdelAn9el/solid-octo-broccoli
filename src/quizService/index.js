@@ -19,7 +19,7 @@ const qBank = [
   },
   {
     question: "Princess Leia is princess of which planet? ",
-    answers: ["Alderaan", "Yavin", "Endor", "Degobah"],
+    answers: ["Alderaan", "Yavin", "Endor", "Dagobah"],
     correct: "Alderaan",
     questionId: "004"
   },
@@ -118,6 +118,121 @@ const qBank = [
     answers: ["Emperor Palpatine", "Snoke", "Kylo-Ren", "Smaug"],
     correct: "Snoke",
     questionId: "020"
+  },
+
+  // do these
+
+  {
+    question: "What's the name of Han Solo's ship?",
+    answers: ["Slave I", "Millenium Eagle", "Executor", "Millenium Falcon"],
+    correct: "Millenium Falcon",
+    questionId: "021"
+  },
+  {
+    question: "What planet are Wookies from?",
+    answers: ["Yavin", "Kashyyyk", "Tattoine", "Endor"],
+    correct: "Kashyyyk",
+    questionId: "022"
+  },
+  {
+    question: "Who is Luke and Leia's mother?",
+    answers: ["Padme Amidala", "Queen Latifa", "Ashoka", "Mon Mothma"],
+    correct: "Padme Amidala",
+    questionId: "023"
+  },
+  {
+    question: "What kind of species is Sebulba?",
+    answers: ["Wookie", "Gun-gun", "Hut", "Snake"],
+    correct: "Gun-gun",
+    questionId: "024"
+  }, {
+    question: "What invisible power binds the galaxy together?",
+    answers: ["The Force", "Light saber", "Atoms", "The Tokens"],
+    correct: "The Force",
+    questionId: "025"
+  }, {
+    question: "Where does Yoda go to live after the Jedi purge?",
+    answers: ["Yavin", "Endor", "Tatooine", "Dagobah"],
+    correct: "Dagobah",
+    questionId: "026"
+  },
+  {
+    question: "Anakin chops who's head off?",
+    answers: ["Jango Fett", "Snoke", "Count Dooku", "Yoda"],
+    correct: "Count Dooku",
+    questionId: "027"
+  }, {
+    question: "What color is Mace Windu's lightsaber?",
+    answers: ["Purple", "Red", "Green", "Blue"],
+    correct: "Pruple",
+    questionId: "028"
+  }, {
+    question: "Which planet is covered in water, and where the clones were made?",
+    answers: ["Coruscant", "Tatooine", "Kamino", "Kashyyyk"],
+    correct: "Kamino",
+    questionId: "029"
+  },
+  {
+    question: "Who is Jango Fett's son?",
+    answers: ["Boba", "Snoke", "Kylo-Ren", "Anakin"],
+    correct: "Boba",
+    questionId: "030"
+  }, {
+    question: "Who is also known as Emperor Palpatine?",
+    answers: ["Darth Sidious", "Snoke", "Darth Vader", "Count Dooku"],
+    correct: "Darth Sidious",
+    questionId: "031"
+  }, 
+  {
+    question: "How did Obi-Wan kill Greivious?",
+    answers: ["Light saber", "Knife", "Laser Blaster", "Fire"],
+    correct: "Laster Blaster",
+    questionId: "032"
+  },
+  {
+    question: "What is the name of Darth Vader's Star Destroyer?",
+    answers: ["Death Star", "Executor", "Lasankya", "Millenium Falcon"],
+    correct: "Executor",
+    questionId: "033"
+  }, {
+    question: "Uncle ____ and Aunt ____ raised Luke.",
+    answers: ["Qui-Gon, Amidala", "Owen, Beru", "Vader, Leia", "Greivous, Beru"],
+    correct: "Owen, Beru",
+    questionId: "034"
+  }, {
+    question: "who said 'it's a trap'?",
+    answers: ["Ackbar", "Lando", "Obi Wan", "Anakin"],
+    correct: "Ackbar",
+    questionId: "035"
+  },
+  {
+    question: "What kind of vehicle did Rey live in?",
+    answers: ["AT-ST", "Star Destroyer", "AT-AT", "Millenium Falcon"],
+    correct: "AT-AT",
+    questionId: "036"
+  }, 
+  {
+    question: "How many Sith are always there?",
+    answers: ["One", "Two", "Three", "Four"],
+    correct: "Two",
+    questionId: "037"
+  }, 
+  {
+    question: "Who killed Jabba the Hut?",
+    answers: ["Leia", "Luke", "Han", "Jar-Jar"],
+    correct: "Leia",
+    questionId: "038"
+  },
+  {
+    question: "What did Luke lose during his fight with Vader?",
+    answers: ["His heart", "Leg", "Hand", "Hair"],
+    correct: "Hand",
+    questionId: "039"
+  }, {
+    question: "Where did the Clone Wars begin?",
+    answers: ["Tatooine", "Geonosis", "Naboo", "Jakku"],
+    correct: "Geonosis",
+    questionId: "040"
   },
 ];
 
