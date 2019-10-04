@@ -1,0 +1,16 @@
+.score {
+  color: aliceblue;
+  text-align: center;
+}
+
+.play-btn {
+  display: inline-block;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.score-board {
+  text-align: center;
+}
+
