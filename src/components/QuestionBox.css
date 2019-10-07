@@ -5,13 +5,17 @@
   padding-left: 10px;
   color: aliceblue;
   text-align: center;
+  border-radius: 10px;
 }
 
 .answer-btn {
   border-radius: 10px;
   margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .question {
-  border: 1px solid rgb(81, 123, 216);
+  /* border: 1px solid rgb(81, 123, 216); */
+  padding-bottom: 5px;
+  margin-top: -5px;
 }

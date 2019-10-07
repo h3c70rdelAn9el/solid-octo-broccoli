@@ -5,7 +5,9 @@ import quizService from './quizService';
 import QuestionBox from './components/QuestionBox';
 import Result from './components/Result';
 
+
 import './index.css';
+import Footer from './components/Footer';
 
 
 
@@ -53,6 +55,7 @@ class Quiz extends Component {
 
   render() {
     return (
+      <div>
       <div className="container main">
         <div className="title">SW Quiz</div>
         <hr/>
@@ -72,6 +75,8 @@ class Quiz extends Component {
             ))
         }
         {this.state.responses === 5 ? (<Result score={this.state.score} playAgain={this.playAgain} /> ) : null }
+      </div>
+      <Footer />
       </div>
     );
   };
