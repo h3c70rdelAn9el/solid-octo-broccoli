@@ -6,7 +6,6 @@ export default class Footer extends Component {
     return (
       <div className="footer">
         <p className="footer-title">h3c70r del an9el</p>
-        <p>deployed with Now</p>
       </div>
     );
   }
